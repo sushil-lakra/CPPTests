@@ -173,6 +173,10 @@ void TestingVariadicInitializationOfPointers()
 }
 */
 
+
+/*
+hello there.
+*/
 template <typename T, typename ... Param>
 void Any(char* buf, int64_t& sz, T*& v, Param... params);
 
