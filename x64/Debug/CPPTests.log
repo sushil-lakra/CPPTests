@@ -1,4 +1,0 @@
-﻿  main.cpp
-d:\unity\cpp\cpptests\main.cpp(520): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
-d:\unity\cpp\cpptests\main.cpp(729): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  CPPTests.vcxproj -> D:\Unity\CPP\CPPTests\x64\Debug\CPPTests.exe

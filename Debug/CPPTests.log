@@ -1,7 +1,0 @@
-﻿  main.cpp
-d:\unity\cpp\cpptests\main.cpp(214): warning C4018: '<': signed/unsigned mismatch
-d:\unity\cpp\cpptests\main.cpp(265): warning C4018: '<': signed/unsigned mismatch
-d:\unity\cpp\cpptests\main.cpp(292): warning C4018: '<': signed/unsigned mismatch
-d:\unity\cpp\cpptests\main.cpp(300): warning C4018: '<': signed/unsigned mismatch
-d:\unity\cpp\cpptests\main.cpp(621): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  CPPTests.vcxproj -> D:\Unity\CPP\CPPTests\Debug\CPPTests.exe
